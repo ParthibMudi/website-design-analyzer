@@ -1,0 +1,5 @@
+flask
+flask-cors
+playwright
+python-dotenv
+google-generativeai
